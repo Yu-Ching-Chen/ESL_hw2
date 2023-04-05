@@ -15,14 +15,14 @@ $ make
 ```bash 
 $ time ./filter ../../lena_color_256_noise.bmp ./lena_color_256_out.bmp
 ```
-Open **lena_color_256_out.bmp** to check the image and the read/write times and simulation runtime are shown on the terminal.
+Open **lena_color_256_out.bmp** to check the image and the read/write times and simulation time are shown on the terminal.
 <br>
 
 #### Testing 2
 ```bash 
 $ time ./filter ../../peppers_color_noise.bmp ./peppers_color_out.bmp
 ```
-Open **peppers_color_out.bmp** to check the image and the read/write times and simulation runtime are shown on the terminal.
+Open **peppers_color_out.bmp** to check the image and the read/write times and simulation time are shown on the terminal.
 <br>
 
 
@@ -40,12 +40,12 @@ $ make
 ```bash 
 $ time ./filter ../../lena_color_256_noise.bmp ./lena_color_256_out.bmp
 ```
-Open **lena_color_256_out.bmp** to check the image and the read/write times and simulation runtime are shown on the terminal.
+Open **lena_color_256_out.bmp** to check the image and the read/write times and simulation time are shown on the terminal.
 <br>
 
 #### Testing 2
 ```bash 
 $ time ./filter ../../peppers_color_noise.bmp ./peppers_color_out.bmp
 ```
-Open **peppers_color_out.bmp** to check the image and the read/write times and simulation runtime are shown on the terminal.
+Open **peppers_color_out.bmp** to check the image and the read/write times and simulation time are shown on the terminal.
 <br>
